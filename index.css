@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gamer</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="card">
+        <div class="circle" style="--clr:#003087">
+        <img src="img/Playstation_logo_colour.svg.png" class="logo">
+        </div>
+        <div class="content">
+            <h2>God of war</h2>
+            <p> Kratos is a father again. As mentor and protector to Atreus, a son determined to earn his respect, he is forced to deal with and control the rage that has long defined him while out in a very dangerous world with his son.
+                His vengeance against the Gods of Olympus behind him.             
+                Its in this harsh, unforgiving world that he must fight to survive, and not only teach his son to do the same… but also prevent him from repeating the Ghost of Sparta"s bloodstained mistakes.                
+            </p>
+            <a href="https://store.playstation.com/ru-ua/product/EP9000-CUSA07412_00-0000000GODOFWARN">website</a>
+        
+                    
+        </div>
+        <img src="img/png-transparent-god-of-war-kratos-atreus-playstation-god-of-war-game-dragon-vehicle-removebg-preview.png" class="produktimg">
+        
+    </div>
+    <div class="card">
+        <div class="circle" style="--clr:#52b043">
+        <img src="img/1024px-Xbox_one_logo.svg.png" class="logo">
+        </div>
+        <div class="content">
+            <h2>Halo 4</h2>
+            <p>
+                Become a witness to the triumphant return of the Master Chief to fight an ancient evil, hungry for revenge and destruction. On the mysterious planet where the hero crashed, new enemies and dangerous technologies await him. The universe will never be the same again.                
+            </p>
+            <a href="https://www.xbox.com/ru-RU/games/store/halo-4/9P8CFXZH93CK/0010/9N9DF3HL346J">website</a>
+        
+                    
+        </div>
+        <img src="img/png-clipart-halo-4-halo-the-master-chief-collection-halo-spartan-assault-cortana-halo-wars-game-video-game-removebg-preview.png" class="produktimg">
+        
+    </div>
+    <div class="card">
+        <div class="circle" style="--clr:#F62217">
+        <img src="img/nintendo.png" class="logo">
+        </div>
+        <div class="content">
+            <h2>Super Mario Odyssey</h2>
+            <p>
+                Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!                
+            </p>
+            <a href="https://www.nintendo.com/store/products/super-mario-odyssey-switch/">website</a>
+        
+                    
+        </div>
+        <img src="img/214-2141371_super-mario-odyssey-hat-super-mario-odyssey-nintendo-switch-removebg-preview.png" class="produktimg">
+        
+    </div>
+</body>
+</html>
